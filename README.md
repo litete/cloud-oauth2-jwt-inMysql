@@ -1,3 +1,4 @@
+# 将oauth2的信息存储到数据库里
 # spring-boot2-oauth2-auth-server-jwt-mysql
 
 Hello Everyone,
